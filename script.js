@@ -1,4 +1,8 @@
 //your code here
+<<<<<<< HEAD
+=======
+//your code here
+>>>>>>> 912086e3277008bf9217f3ddcce1a5b61b75bfce
 // script.js
 let bandNames = ['The Rolling Stones', 'Pink Floyd', 'Led Zeppelin', 'The Beatles', 'Queen'];
 
@@ -26,4 +30,8 @@ function displayBandNames(names) {
 }
 
 sortBandNames(bandNames);
+<<<<<<< HEAD
 displayBandNames(bandNames);
+=======
+displayBandNames(bandNames);
+>>>>>>> 912086e3277008bf9217f3ddcce1a5b61b75bfce
